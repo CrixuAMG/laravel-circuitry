@@ -1,6 +1,6 @@
 <?php
 
-namespace CrixuAMG\Circuitry\Circuitry\Drivers;
+namespace CrixuAMG\Circuitry\Drivers;
 
 interface CircuitDriverContract
 {
